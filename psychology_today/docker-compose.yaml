@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  cold_email_tracking_api:
+    build: .
+    ports:
+      - "8000:8000" # FastAPI
+    volumes:
+      - ./tracking_pixels.json:/app/tracking_pixels.json
+      - ./tracking_links.json:/app/tracking_links.json
+    restart: unless-stopped

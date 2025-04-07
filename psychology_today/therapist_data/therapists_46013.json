@@ -1,0 +1,103 @@
+[
+    {
+        "id": 190123,
+        "uuid": "88e0373c-815d-11e8-a6ad-06142c356176",
+        "name": "Gwen Martin",
+        "address": "3084 Broadway Street Admistrative & Diagnostic Clinic Anderson Indiana 46012 US",
+        "phone_number": "(317) 820-2751",
+        "credentials": " PhD BCBA-D",
+        "education": "University of Kentucky ",
+        "session_fees": "0",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/conduct-curb,-llc-anderson-in/190123",
+        "personal_website": "https://conductcurb.com/",
+        "emails": [
+            "info@conductcurb.com",
+            "info@jadehealth.org",
+            "INFO@CONDUCTCURB.COM",
+            "765-400-4021info@conductcurb.comWWW.CONDUCTCURB.COMClosed",
+            "admin@conductcurb.com"
+        ],
+        "send_later": true
+    },
+    {
+        "id": 1225313,
+        "uuid": "6d015d8a-14d1-4b29-9447-f27212a76423",
+        "name": "Eleanor Clark",
+        "address": "None None Fishers Indiana 46038 US",
+        "phone_number": "(812) 345-8928",
+        "credentials": " MA LMHC",
+        "education": "Ball State University Masters",
+        "session_fees": "140",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/eleanor-clark-anderson-in/1225313",
+        "personal_website": null,
+        "emails": [],
+        "send_later": true
+    },
+    {
+        "id": 1394217,
+        "uuid": "bb55a58d-cb33-48b3-bf16-f152a923c620",
+        "name": "Jenna Jones",
+        "address": "200 Medical Drive Suite D Carmel Indiana 46032 US",
+        "phone_number": "(463) 842-0413",
+        "credentials": " LCSW",
+        "education": "Indiana University Master of Social Work",
+        "session_fees": "150",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/jenna-jones-anderson-in/1394217",
+        "personal_website": null,
+        "emails": [],
+        "send_later": true
+    },
+    {
+        "id": 1344911,
+        "uuid": "8b51569e-f4a6-4970-ba75-3905e3ea1e99",
+        "name": "Julie P Otis",
+        "address": "None None Noblesville Indiana 46062 US",
+        "phone_number": "(463) 289-0563",
+        "credentials": " LCSW CADAC NADAC",
+        "education": "Indiana University Social Work",
+        "session_fees": "100",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/julie-p-otis-anderson-in/1344911",
+        "personal_website": "https://headway.co/providers/julie-otis?utm_source=pem&utm_medium=direct_link&utm_campaign=94097",
+        "emails": [
+            "?subject=988 Lifeline&body=https://988lifeline.org/",
+            "partnerships@headway.co"
+        ],
+        "send_later": true
+    },
+    {
+        "id": 1348516,
+        "uuid": "707604b8-2511-43f4-81c8-0fa4aeee8d3e",
+        "name": "Leo Bowman",
+        "address": "None None Indianapolis Indiana 46256 US",
+        "phone_number": "(463) 292-2135",
+        "credentials": " LCSW",
+        "education": null,
+        "session_fees": "100",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/leo-bowman-anderson-in/1348516",
+        "personal_website": "https://www.sondermind.com/providers/v7jb0p1c?utm_source=psychtoday&utm_medium=enterprise&utm_campaign=",
+        "emails": [
+            "emailsupport@sondermind.comshieldPrivacy",
+            "support@sondermind.com",
+            "compliance@sondermind.com",
+            "compliance@sondermind.com.Our",
+            "legal@sondermind.com.Our",
+            "legal@sondermind.com",
+            "844-843-7279support@sondermind.comsondermind.comPhotos"
+        ],
+        "send_later": true
+    },
+    {
+        "id": 361881,
+        "uuid": "8fbd734d-815d-11e8-a6ad-06142c356176",
+        "name": "Tamra L Rigdon",
+        "address": "601 Meridian Street  Anderson Indiana 46016 US",
+        "phone_number": "(463) 263-4193",
+        "credentials": " LSW LAC",
+        "education": "IUPUI ",
+        "session_fees": "0",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/tamra-l-rigdon-anderson-in/361881",
+        "personal_website": null,
+        "emails": [],
+        "already_sent": true
+    }
+]

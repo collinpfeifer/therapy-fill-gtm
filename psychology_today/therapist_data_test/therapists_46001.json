@@ -1,0 +1,71 @@
+[
+    {
+        "id": 49685,
+        "uuid": "8319fb40-815d-11e8-a6ad-06142c356176",
+        "name": "Roxanne Brunsman",
+        "address": "None None Alexandria Indiana 46001 US",
+        "phone_number": "(765) 313-8836",
+        "credentials": " MSW LCSW",
+        "education": "Indiana School of Social Work ",
+        "session_fees": "100",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/roxanne-brunsman-alexandria-in/49685",
+        "personal_website": null,
+        "emails": [],
+
+    },
+    {
+        "id": 190123,
+        "uuid": "88e0373c-815d-11e8-a6ad-06142c356176",
+        "name": "Gwen Martin",
+        "address": "3084 Broadway Street Admistrative & Diagnostic Clinic Anderson Indiana 46012 US",
+        "phone_number": "(317) 820-2751",
+        "credentials": " PhD BCBA-D",
+        "education": "University of Kentucky ",
+        "session_fees": "0",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/conduct-curb,-llc-alexandria-in/190123",
+        "personal_website": "https://conductcurb.com/",
+        "emails": [
+            "admin@conductcurb.com",
+            "INFO@CONDUCTCURB.COM",
+            "765-400-4021info@conductcurb.comWWW.CONDUCTCURB.COMClosing",
+            "info@conductcurb.com"
+        ],
+
+    },
+    {
+        "id": 1346935,
+        "uuid": "0150f997-4a3f-491c-8f4f-b6c53bb9ba78",
+        "name": "Yolanda Jones",
+        "address": "None None Indianapolis Indiana 46256 US",
+        "phone_number": "(463) 400-2981",
+        "credentials": " LCSW",
+        "education": null,
+        "session_fees": "100",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/yolanda-jones-alexandria-in/1346935",
+        "personal_website": "https://www.sondermind.com/providers/q0w5p2vn?utm_source=psychtoday&utm_medium=enterprise&utm_campaign=",
+        "emails": [],
+
+    },
+    {
+        "id": 1348516,
+        "uuid": "707604b8-2511-43f4-81c8-0fa4aeee8d3e",
+        "name": "Leo Bowman",
+        "address": "None None Indianapolis Indiana 46256 US",
+        "phone_number": "(463) 292-2135",
+        "credentials": " LCSW",
+        "education": null,
+        "session_fees": "100",
+        "profile_link": "https://www.psychologytoday.com/us/therapists/leo-bowman-alexandria-in/1348516",
+        "personal_website": "https://www.sondermind.com/providers/v7jb0p1c?utm_source=psychtoday&utm_medium=enterprise&utm_campaign=",
+        "emails": [
+            "844-843-7279support@sondermind.comsondermind.comPhotos",
+            "emailsupport@sondermind.comshieldPrivacy",
+            "compliance@sondermind.com.Our",
+            "compliance@sondermind.com",
+            "support@sondermind.com",
+            "legal@sondermind.com.Our",
+            "legal@sondermind.com"
+        ],
+
+    }
+]

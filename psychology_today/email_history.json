@@ -1,0 +1,892 @@
+{
+    "2024-12-15": {
+        "emails": [
+            {
+                "to": "kay@collaborative-change.com?subject=Email%20from%20Website",
+                "content": "Hi Kay,\n\n    Nice to meet you virtually! My name is Collin and I noticed that you enjoy training therapy dogs which is so cool!\n\n    I\u2019m reaching out because I want to learn about the administrative work you do as a therapist, as I am a clinical psychology alum.\n\n    I know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n\n    ",
+                "therapist_name": "Kay R Beard",
+                "uuid": "8cfe5f32-7b63-4f9d-96e8-8553dbdb318d",
+                "id": 1314849,
+                "date": "2024-12-15"
+            },
+            {
+                "to": "jenny@nurture-therapy.com?subject=Interested%20in%20Therapy%20with%20Jenny&cc=hello%40nurture-therapy.com&bcc=intake%40nurture-therapy.com",
+                "content": "Hi Jenny,\n\n    Nice to meet you virtually! My name is Collin and I really liked reading about your mindfulness approach to therapy, it can be incredibly powerful when applied well!\n\n    I\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a therapist.\n\n    I know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n\n    ",
+                "therapist_name": "Jenny Chappell",
+                "uuid": "cce387ad-f3ac-45d6-8d42-40c664df19f5",
+                "id": 1168550,
+                "date": "2024-12-15"
+            },
+            {
+                "to": null,
+                "content": "Hi Robyn,\n\n    Nice to meet you virtually! My name is Collin \n\n    I\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a therapist.\n\n    I know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n\n    ",
+                "therapist_name": "Robyn N Eubank",
+                "uuid": "52ff6930-aa52-4d95-98d4-135e4bc3d585",
+                "id": 1141456,
+                "date": "2024-12-15"
+            }
+        ],
+        "count": 3
+    },
+    "2024-12-16": {
+        "emails": [
+            {
+                "to": "info@attunedmindcounseling.com?subject=New Client",
+                "content": "Hi Katelin,\n\nNice to meet you virtually! My name is Collin and I was reading your website and absolutely love how you found your passion for psychology early on, that's really inspiring!\n\nI\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Katelin Wagoner",
+                "uuid": "2ac29c59-3a50-43d2-8052-e640770f6b12",
+                "id": 925220,
+                "date": "2024-12-16"
+            },
+            {
+                "to": null,
+                "content": "Hi Sarah,\n\nNice to meet you virtually! My name is Collin \n\nI\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Sarah E Hewitt",
+                "uuid": "8ec277a3-815d-11e8-a6ad-06142c356176",
+                "id": 338385,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "thomasjvalek@icloud.com",
+                "content": "Hi Thomas,\n\nNice to meet you virtually! My name is Collin and I really like the symbolism of the touchstone in your practice, truly important to figure out how you are testing your worth!\n\nI\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Thomas J Valek",
+                "uuid": "84ed8fbe-815d-11e8-a6ad-06142c356176",
+                "id": 94175,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "holly@jrnycounseling.com",
+                "content": "Hi Lauren,\n\nNice to meet you virtually! My name is Collin \n\nI\u2019m reaching out because I am a fellow IU alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Lauren Patterson",
+                "uuid": "ad51d8e8-eaa3-4f84-9596-30a78af9d8f1",
+                "id": 1055644,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "mangus.ashley55@gmail.com",
+                "content": "Hi Ashley,\n\nNice to meet you virtually! My name is Collin and I found your experience in selling medical equipment very unique, it's cool to see how you changed careers!\n\nI\u2019m reaching out because I am a fellow IU alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Ashley Mangus",
+                "uuid": "8e57419d-815d-11e8-a6ad-06142c356176",
+                "id": 327315,
+                "date": "2024-12-16"
+            },
+            {
+                "to": null,
+                "content": "Hi Kimberly,\n\nNice to meet you virtually! My name is Collin I love your diverse major choices! Why French and Psychology?\n\nI\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Kimberly M Papanikandros",
+                "uuid": "8375fe28-815d-11e8-a6ad-06142c356176",
+                "id": 57176,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "thecarecollectivellc@gmail.com",
+                "content": "Hi Jessica,\n\nNice to meet you virtually! My name is Collin \n\nI\u2019m reaching out because I am a fellow IU alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Jessica Lynn Ramey",
+                "uuid": "6e3933fe-4363-429f-acd6-215d0b1e5f6b",
+                "id": 1370507,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "amber@selflovecounselingllc.com",
+                "content": "Hi Amber,\n\nNice to meet you virtually! My name is Collin and I want to say I love your website! The design is gorgeous and flows so well, how did you do it?\n\nI\u2019m also reaching out because I am a fellow IU alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Amber Behrouzvaziri",
+                "uuid": "9c105de2-15a6-40b4-883b-c7320d1ea021",
+                "id": 821566,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "suzanne@Inspire-Equilibrium.com",
+                "content": "Hi Suzanne,\n\nNice to meet you virtually! My name is Collin \n\nI\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Suzanne Smith",
+                "uuid": "33235ebf-7b99-43a7-9bb8-65343bf2ed3a",
+                "id": 447752,
+                "date": "2024-12-16"
+            },
+            {
+                "to": "null",
+                "content": "Hi Fiona,\n\nNice to meet you virtually! My name is Collin and I find your work with children fascinating, how did you get started with that population?\n\nI\u2019m reaching out because I am a clinical psychology alum and I want to learn about the administrative work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Fiona J Kress",
+                "uuid": "8871cefc-815d-11e8-a6ad-06142c356176",
+                "id": 178045,
+                "date": "2024-12-16"
+            }
+        ],
+        "count": 10
+    },
+    "2025-01-29": {
+        "emails": [
+            {
+                "to": "ransburgcounseling@gmail.com",
+                "content": "Hi Hsiu-Ying,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n\nThanks!\nCollin\n",
+                "therapist_name": "Hsiu-Ying Ransburg",
+                "uuid": "8b3e2b8b-815d-11e8-a6ad-06142c356176",
+                "id": 252894,
+                "date": "2025-01-29"
+            },
+            {
+                "to": "Kristy@IntentionalLivingCounseling.com",
+                "content": "Hi Janet,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n\nThanks!\nCollin\n",
+                "therapist_name": "Janet H Weaver",
+                "uuid": "d849d50d-3422-41c6-8d8c-1a9337c50393",
+                "id": 1118979,
+                "date": "2025-01-29"
+            },
+            {
+                "to": null,
+                "content": "Hi Sarah,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n\nThanks!\nCollin\n",
+                "therapist_name": "Sarah Baumgartner",
+                "uuid": "9ae52437-e12a-45d8-9b4b-3f68d0e712df",
+                "id": 1256662,
+                "date": "2025-01-29"
+            },
+            {
+                "to": "ewilliams@silvermaplepsychology.com",
+                "content": "Hi Emily,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Emily F Williams",
+                "uuid": "90aeb70c-815d-11e8-a6ad-06142c356176",
+                "id": 385113,
+                "date": "2025-01-29"
+            },
+            {
+                "to": "monishamitchelllcsw@icloud.com",
+                "content": "Hi Monisha,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Monisha Mitchell",
+                "uuid": "34514beb-3e49-4e43-a7c1-394225b0c0ea",
+                "id": 861441,
+                "date": "2025-01-29"
+            },
+            {
+                "to": null,
+                "content": "Hi Carolyn,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Carolyn Passen",
+                "uuid": "0741bc09-9069-4c14-ab69-1883c12b43af",
+                "id": 1081824,
+                "date": "2025-01-29"
+            }
+        ],
+        "count": 6
+    },
+    "2025-01-30": {
+        "emails": [
+            {
+                "to": "carmeltherapyandwellness@gmail.com",
+                "content": "Hi Will,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Will Johnston",
+                "uuid": "199eef19-887a-46ae-95d3-f0513afee8ac",
+                "id": 1100280,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "stefanie@ridercounseling.com",
+                "content": "Hi Stefanie,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Stefanie Rider",
+                "uuid": "dc355736-be74-4406-827e-e5da102d3f7c",
+                "id": 911992,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Jennifer,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Jennifer Herschberger",
+                "uuid": "894ac52f-815d-11e8-a6ad-06142c356176",
+                "id": 201766,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "alma@therasportsforchildren.com",
+                "content": "Hi Alma,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Alma Rut Gardarsdottir",
+                "uuid": "9797d7a2-3122-46cd-8acb-86f36032b64a",
+                "id": 1422160,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Brittany,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Brittany Sollman",
+                "uuid": "c9f1d735-c3e5-4233-9986-d6ae0be8ffa1",
+                "id": 1349093,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "office@carmelpsychology.com",
+                "content": "Hi Amy,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Amy L Rexroth",
+                "uuid": "83e41fd6-815d-11e8-a6ad-06142c356176",
+                "id": 69710,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "inquires@rootedcounselingandsupportcenter.com",
+                "content": "Hi Sydney,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Sydney Isley",
+                "uuid": "86ad70f4-815d-11e8-a6ad-06142c356176",
+                "id": 134201,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "jen@collab-counseling.com",
+                "content": "Hi Jen,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Jen Elliott",
+                "uuid": "2f6fdb58-555a-49f3-b7ad-e305727f8ce8",
+                "id": 1033335,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Terri,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Terri L Moore",
+                "uuid": "5fe5a1a0-52a5-449c-8a3f-ef56f9b510a5",
+                "id": 736198,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "sarah@selahcounselingllc.org",
+                "content": "Hi Sarah,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Sarah Barksdale",
+                "uuid": "f3330f4a-fcf4-42ec-8e7d-00246ac5c97a",
+                "id": 1222492,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Levi,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Levi Thomas Laskowski",
+                "uuid": "609643ad-2c23-422f-8f12-a5520e764216",
+                "id": 1153293,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Suzanne,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Suzanne R Newman",
+                "uuid": "243700f8-8467-4e80-8972-c55e6b015e00",
+                "id": 1179659,
+                "date": "2025-01-30"
+            },
+            {
+                "to": "46033stacey@discovery-llc.company",
+                "content": "Hi Stacey,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Stacey Myers",
+                "uuid": "3bc4db7b-318f-47a2-a76e-67aec9e046ac",
+                "id": 803927,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Leah,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Leah Cook",
+                "uuid": "a3642a86-2f7f-48c7-9352-ba28fc27d5bf",
+                "id": 1271507,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Alexa,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Alexa Griffith",
+                "uuid": "84df034c-815d-11e8-a6ad-06142c356176",
+                "id": 92914,
+                "date": "2025-01-30"
+            },
+            {
+                "to": null,
+                "content": "Hi Aaron,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Aaron E Merkel",
+                "uuid": "463c921e-4e3e-444b-9f1a-693206e80697",
+                "id": 1105017,
+                "date": "2025-01-30"
+            }
+        ],
+        "count": 16
+    },
+    "2025-01-31": {
+        "emails": [
+            {
+                "to": "sean@myrenewalcounseling.com",
+                "content": "Hi Sean,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/ currently in beta!) to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Sean Oosterlinck",
+                "uuid": "8e4eef49-f634-4efd-89d5-302db7250d46",
+                "id": 909248,
+                "date": "2025-01-31"
+            },
+            {
+                "to": null,
+                "content": "Hi Amy,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/ currently in beta!) to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Amy Armstrong",
+                "uuid": "82a78256-815d-11e8-a6ad-06142c356176",
+                "id": 37710,
+                "date": "2025-01-31"
+            },
+            {
+                "to": "adair@adairmcdonald.com",
+                "content": "Hi Adair,\n\nWhen I would talk to therapists about their practice, cancellations seemed to keep coming up. Losing revenue was never fun and super scary for the business.\n\nTo solve this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/ currently in beta!) to help reduce cancellations and fill slots when they happen.\n\nWould there be a time this week that would work for a quick (10 minute) demo. If not feel free to schedule here https://cal.com/cpfeifer/10min.\n",
+                "therapist_name": "Adair McDonald",
+                "uuid": "8ab25542-039e-4257-af00-4022b5ad4b06",
+                "id": 1174978,
+                "date": "2025-01-31"
+            }
+        ],
+        "count": 3
+    },
+    "2025-02-01": {
+        "emails": [
+            {
+                "to": null,
+                "content": "Hi Jennifer,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built [TherapyFill](https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule [here](https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Jennifer Chadwick",
+                "uuid": "5859e246-786c-4a2e-9762-18442732e117",
+                "id": 1357946,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "thomasjvalek@icloud.com",
+                "content": "Hi Kiara,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built [TherapyFill](https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule [here](https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Kiara Nieto",
+                "uuid": "810398c9-f9bd-479b-906b-ae9e8e0c52db",
+                "id": 1163061,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "gailcastlelmhc@gmail.com",
+                "content": "Hi Gail,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built [TherapyFill](https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule [here](https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Gail Castle",
+                "uuid": "8e45d0fa-815d-11e8-a6ad-06142c356176",
+                "id": 325781,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "662-0082Emailinnercalmwellnesscenter@gmail.comSocial",
+                "content": "Hi Erin,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built [TherapyFill](https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule [here](https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Erin Tahvonen",
+                "uuid": "9130cae7-815d-11e8-a6ad-06142c356176",
+                "id": 398406,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "denaheintherapy@gmail.com",
+                "content": "Hi Dena,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built [TherapyFill](https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule [here](https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Dena Hein",
+                "uuid": "a0ba1f0f-a297-49cb-b423-d916d24df24d",
+                "id": 994707,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "maggy.baurley@lifesolutionspc.com",
+                "content": "Hi Will,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built [TherapyFill](https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule [here](https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Will Hughes",
+                "uuid": "83e40e8d-815d-11e8-a6ad-06142c356176",
+                "id": 69703,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Morgan,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Morgan Stoner",
+                "uuid": "b8c41359-e4b9-48d4-a07d-b706a44f271c",
+                "id": 462824,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "mangus.ashley55@gmail.com",
+                "content": "Hi Mary,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Mary A Holland",
+                "uuid": "907ff169-815d-11e8-a6ad-06142c356176",
+                "id": 379720,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Andrew,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Andrew Smith",
+                "uuid": "8f62fbe1-815d-11e8-a6ad-06142c356176",
+                "id": 353657,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Lindsay,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Lindsay Hallett",
+                "uuid": "aa663400-9e84-4ed2-b19c-8c87818f5435",
+                "id": 413319,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Alyssa,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Alyssa Zeiser",
+                "uuid": "c60175f7-23c8-4daf-a446-c988a55212c8",
+                "id": 1282786,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Natalie,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Natalie Raab",
+                "uuid": "aa346fa1-ec23-4402-9a82-f727838e3a9d",
+                "id": 1112266,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Veronica,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Veronica K Needler",
+                "uuid": "e0b9fb23-5a2e-4411-b860-154c1946aed8",
+                "id": 1042735,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "thorne.infinitywellness@gmail.com",
+                "content": "Hi Michele,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Michele Thorne",
+                "uuid": "259c8c75-4801-4739-b920-1752b232d3b2",
+                "id": 1009716,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Bonita,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Bonita Streetman",
+                "uuid": "8942f200-815d-11e8-a6ad-06142c356176",
+                "id": 200740,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Hannah,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Hannah McShane",
+                "uuid": "c125d8cd-06aa-4ded-b6c4-1ba23669e22c",
+                "id": 886583,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "julia@growwiththeflowtherapy.comPhone",
+                "content": "Hi Julia,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Julia Sherrill",
+                "uuid": "43e0dea3-0d2b-4e04-91cb-81e354bf7598",
+                "id": 905560,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Kadee,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Kadee Kirkpatrick",
+                "uuid": "4616b661-43fa-459e-b682-9fc0641194e1",
+                "id": 984922,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "hannah@evermoretherapyandwellnessgroup.com",
+                "content": "Hi Hannah,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Hannah Masters",
+                "uuid": "11a01d66-907a-43be-a6a4-eda0a8fc95c5",
+                "id": 1377198,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Colin,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Colin M Rak-Dietz",
+                "uuid": "9246ea09-2beb-46a5-a475-adb200e24802",
+                "id": 415632,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Caitlin,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Caitlin Wolowski",
+                "uuid": "bbd8b0c8-03dd-40b0-9680-a6bc8e51aea8",
+                "id": 756435,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "Marla@CalicoCounseling.comPhone",
+                "content": "Hi Marla,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Marla Hylton",
+                "uuid": "863b9b2b-815d-11e8-a6ad-06142c356176",
+                "id": 123256,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "MAashton@myrenewalcounseling.comIn",
+                "content": "Hi Ashton,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Ashton Crawford",
+                "uuid": "bf722b48-4c39-4013-905e-519f544071d1",
+                "id": 1177569,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "intothelightmentalhealth@gmail.com",
+                "content": "Hi Laura,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Laura Symon",
+                "uuid": "17e578ff-b3aa-4325-89df-a05514b7ce25",
+                "id": 824307,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "mbolin@indymha.com",
+                "content": "Hi Migdelia,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Migdelia Bolin-Salda\u00f1a",
+                "uuid": "94a77b84-4533-40a1-94f6-7d3840118842",
+                "id": 1191505,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Cynthia,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Cynthia B Desadier",
+                "uuid": "90291f7b-815d-11e8-a6ad-06142c356176",
+                "id": 373731,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Madeline,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Madeline Williams",
+                "uuid": "1eebf812-7c37-467c-8658-1c0decc57c94",
+                "id": 1182746,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Sharon,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Sharon L Thompson",
+                "uuid": "847ad007-815d-11e8-a6ad-06142c356176",
+                "id": 83663,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Abigail,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Abigail Noble",
+                "uuid": "c9901209-ce01-4c12-9d75-3b488fac46f0",
+                "id": 734707,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "meg@meghanfarr.com",
+                "content": "Hi Meghan,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Meghan E. Farr",
+                "uuid": "2b3745a6-00af-4c21-a220-374f24ffd241",
+                "id": 724968,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "emma@evermoretherapyandwellnessgroup.com",
+                "content": "Hi Emma,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Emma K. D. Niespodziany",
+                "uuid": "13254b62-3d3c-4099-aea9-c86f411bd776",
+                "id": 1119474,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "arielle@onestepforwardcounseling.com",
+                "content": "Hi Arielle,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Arielle Thibodeaux",
+                "uuid": "8ea4c2d9-815d-11e8-a6ad-06142c356176",
+                "id": 335096,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "tianna@miniminds.org",
+                "content": "Hi Tianna,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Tianna Ceaser",
+                "uuid": "19248303-ab0f-4e46-b321-6c2a56b5bdf6",
+                "id": 1390203,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "drjeglen@gmail.com",
+                "content": "Hi Jan,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Jan Alan Eglen",
+                "uuid": "604435f6-6d20-455e-bd87-a7087e19b6e7",
+                "id": 944458,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "tichina@evermoretherapyandwellnessgroup.com",
+                "content": "Hi Tichina,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Tichina Allen",
+                "uuid": "b0ee4390-bef5-49af-8638-314025b72544",
+                "id": 1162493,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "info@clarityhealthservices.com",
+                "content": "Hi Brandon,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Brandon Robbins",
+                "uuid": "63526054-e86f-4315-bc66-4c5502e32fc0",
+                "id": 1225994,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Charles,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Charles Allen Spray",
+                "uuid": "8bfd707b-815d-11e8-a6ad-06142c356176",
+                "id": 272050,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "jamie@evermoretherapyandwellnessgroup.com",
+                "content": "Hi Jamie,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Jamie Hill",
+                "uuid": "f04c59c3-110c-42bf-8cac-0efb209c2c20",
+                "id": 1373678,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Robert,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Robert Harris",
+                "uuid": "c7abdea2-5c0b-4f9a-81ce-fc8a1d54de58",
+                "id": 1416037,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "Amanda@thrivecounselingindy.com",
+                "content": "Hi Amanda,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Amanda Zolman",
+                "uuid": "8361ded9-0a2b-46f1-bff7-2ee61b979988",
+                "id": 816515,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "info@pramapsychology.com",
+                "content": "Hi Dr.,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Dr. Prama Chakravarti",
+                "uuid": "e11db27f-3f96-42c3-8548-00c9fbd7a356",
+                "id": 1056575,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Laurie,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Laurie A Moyer",
+                "uuid": "cf2e7e71-f0cd-497c-bcd9-7a75095ad3a7",
+                "id": 1196799,
+                "date": "2025-02-01"
+            },
+            {
+                "to": "Sarahb@emcounseling.org",
+                "content": "Hi Sarah,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Sarah L Brubaker",
+                "uuid": "f7ac6934-5654-43c2-bb0d-425980609c7f",
+                "id": 1102195,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Carmen,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Carmen Rodriguez",
+                "uuid": "4b06bb6e-4a75-4a23-9fec-8b9731c354dd",
+                "id": 1178571,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Scott,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Scott E. Adams",
+                "uuid": "d88154b4-bad4-4330-9127-27217f1f6b42",
+                "id": 1086166,
+                "date": "2025-02-01"
+            },
+            {
+                "to": null,
+                "content": "Hi Lindsay,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Lindsay Blair Charles",
+                "uuid": "ffec46a2-844c-4c83-9dd1-f4067cdab7b1",
+                "id": 474611,
+                "date": "2025-02-01"
+            }
+        ],
+        "count": 46
+    },
+    "2025-02-04": {
+        "emails": [
+            {
+                "to": "shana@marklecounseling.com",
+                "content": "Hi Shana,\n\nI\u2019ve been chatting with therapists about last-minute cancellations, and I\u2019m curious\u2014how do you usually handle them?\n\nSome have mentioned stricter cancellation policies, charging fees, or trying to reshuffle clients, but I\u2019d love to hear what works for you.\n\nIf you have a quick second, I\u2019d really appreciate your thoughts.",
+                "therapist_name": "Shana Markle",
+                "uuid": "90b75bef-9396-41e1-8f6a-59da72169bae",
+                "id": 1214191,
+                "date": "2025-02-04"
+            }
+        ],
+        "count": 1
+    },
+    "2025-02-09": {
+        "emails": [
+            {
+                "to": "drlinda@drlindhinkle.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Linda,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/33bf7b6c1d25007621b42e7d0ec69ded\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/cb45fa8afebe2b221d037a314d65abfe\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Linda Hinkle",
+                "uuid": "88183568-815d-11e8-a6ad-06142c356176",
+                "id": 168293,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "suzanne@Inspire-Equilibrium.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Suzanne,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/8eb496ffc42bacf9536100061d65a7bc\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/3307e4314a80f046a3ef3bc568dfb6c8\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Suzanne Smith",
+                "uuid": "33235ebf-7b99-43a7-9bb8-65343bf2ed3a",
+                "id": 447752,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "thomasjvalek@icloud.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Thomas,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/68877931431dcdd58419a429087c42c4\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/4babef5dcfad5231049f23cda8b93d71\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Thomas J Valek",
+                "uuid": "84ed8fbe-815d-11e8-a6ad-06142c356176",
+                "id": 94175,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "info@helixhealthgroup.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Will,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/9b38280a608c335fa853f7742a19e316\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/134005bd704400050a5fe926ae9ef1ff\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Will Johnston TEST",
+                "uuid": "4732d582-4f80-4710-b47c-5640cb9958ee77",
+                "id": 970750,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "info@helixhealthgroup.com",
+                "content": "Hi Will,\n\nNice to meet you virtually! My name is Collin and \n\nI\u2019m reaching out because I went to school for clinical psychology and I want to learn about some of the work you do as a private practice owner.\n\nI know your time is incredibly valuable, but if you would be willing to have a quick 20 minute chat to talk about your experience, I would love to talk!\n",
+                "therapist_name": "Will Johnston TEST",
+                "uuid": "4732d582-4f80-4710-b47c-5640cb9958ee77",
+                "id": 970750,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "willjohnston@helixhealthgroup.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Will,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/0c31c4a24f51f2007052bcba922ba064\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/9d805e510b23305354ff4fa7a9e4a22f\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Will Johnston TEST",
+                "uuid": "4732d582-4f80-4710-b47c-5640cb9958ee77",
+                "id": 970750,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "willjohnston@helixhealthgroup.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Will,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/19237cfba633ea3e13dca170254efa8d\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/41fb6a898e3d85669f5ab1bd78740bd5\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Will Johnston",
+                "uuid": "4732d582-4f80-4710-b47c-5640cb9958ee",
+                "id": 970750,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "carolhughes.lmhc@gmail.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Carol,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/1cf9bfdb362ba6a102cd293ddd2fedb5\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/a7fb7a6e124b695b28b37695123add90\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Carol H Hughes",
+                "uuid": "8d37a3a5-815d-11e8-a6ad-06142c356176",
+                "id": 300132,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "mangus.ashley55@gmail.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Ashley,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/4cc429dfd50976338cae778bf16309ea\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/0434d8a803f4d8867cdf93893b2c605f\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Ashley Mangus",
+                "uuid": "8e57419d-815d-11e8-a6ad-06142c356176",
+                "id": 327315,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "JordanM@EMCounseling.orgPhone",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Jordan,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/8657c59e3256092077e3f12f74632407\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/36022bfa16f416b4ea798a3e0a9241f3\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Jordan Madison",
+                "uuid": "7bbe1630-470f-4cee-97f8-24724b25ce99",
+                "id": 711499,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "dwarman@centralindianacbt.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Debbie,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/3505f3b7ce765d7a3e7aed4138542df2\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/b7312712045cf90c3df5509b5667e4a7\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Debbie M Warman",
+                "uuid": "841db94a-815d-11e8-a6ad-06142c356176",
+                "id": 75327,
+                "date": "2025-02-09"
+            },
+            {
+                "to": "MicheleT@EMCounseling.orgPhone",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Michele,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n\n          <p>Usually the options would be:</p>\n\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n\n          <p>But therapists weren\u2019t happy with those options.</p>\n\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/218b9f175998a7cdb6a691775955e41c\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/13c72817bf422a84b3db9cf0589e2dfa\" width=\"1\" height=\"1\" style=\"display:none;\">\n  </body>\n</html>\n",
+                "therapist_name": "Michele Stepanek Teague",
+                "uuid": "94583cfb-c95f-414a-89d9-b02e6eb2d8ae",
+                "id": 1286036,
+                "date": "2025-02-09"
+            }
+        ],
+        "count": 12
+    },
+    "2025-02-10": {
+        "emails": [
+            {
+                "to": "hello@beyondthesuntherapy.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Allison,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n          <p>Usually the options would be:</p>\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n          <p>But therapists weren\u2019t happy with those options.</p>\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/83fbc647842cb8b3bb748db3485d165e\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/a7fa2e2144fad71a5e1d272e217f5b83\" >\n  </body>\n</html>\n",
+                "therapist_name": "Allison Musselman",
+                "uuid": "dab76fb1-8184-4b26-8bc7-ecd21a540ac8",
+                "id": 1431838,
+                "date": "2025-02-10"
+            },
+            {
+                "to": null,
+                "content": "Hi Alyssa,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Alyssa Zeiser",
+                "uuid": "c60175f7-23c8-4daf-a446-c988a55212c8",
+                "id": 1282786,
+                "date": "2025-02-10"
+            },
+            {
+                "to": null,
+                "content": "Hi Jennifer,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Jennifer Herschberger",
+                "uuid": "894ac52f-815d-11e8-a6ad-06142c356176",
+                "id": 201766,
+                "date": "2025-02-10"
+            },
+            {
+                "to": null,
+                "content": "Hi Rebecca,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Rebecca Kinsey",
+                "uuid": "f695d1c1-42b8-436b-b521-fa43f58f14f5",
+                "id": 836376,
+                "date": "2025-02-10"
+            },
+            {
+                "to": null,
+                "content": "Hi Ashlee,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule them and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Ashlee Edgerton",
+                "uuid": "8a47cf6a-815d-11e8-a6ad-06142c356176",
+                "id": 226284,
+                "date": "2025-02-10"
+            },
+            {
+                "to": "annita.coburn.mft@gmail.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Annita,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n          <p>Usually the options would be:</p>\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n          <p>But therapists weren\u2019t happy with those options.</p>\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/29a3f13ed9fe5d64f5df8cec808a4084\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/648d178ab0f06e8050d01c350061cbf4\" >\n  </body>\n</html>\n",
+                "therapist_name": "Annita Coburn",
+                "uuid": "ece4d52a-54e2-43dd-81b9-13c80f5fa33d",
+                "id": 813930,
+                "date": "2025-02-10"
+            },
+            {
+                "to": null,
+                "content": "Hi Mishara,\n\nWhen I would talk to therapists, cancellations kept coming up as a concern.\n\nUsually the options would be:\n\n1. Seeing more clients\n\n2. Instituting higher cancellation fees or stricter policies\n\n3. Shuffling clients around to make it work\n\nBut therapists weren't happy with those options.\n\nTo remedy this, I built TherapyFill (https://therapyfill.rudd-bebop.ts.net/), a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n\nIf you're interested in learning more, how about sometime this week? Alternatively you can schedule here (https://cal.com/cpfeifer/10min).\n",
+                "therapist_name": "Mishara D Winston",
+                "uuid": "b040d323-5c65-4bdf-a8ee-4ded57deb774",
+                "id": 1293361,
+                "date": "2025-02-10"
+            }
+        ],
+        "count": 7
+    },
+    "2025-02-11": {
+        "emails": [
+            {
+                "to": "kimpapanikandros@gmail.com",
+                "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n  </head>\n  <body>\n      <p>Hi Kimberly,</p>\n      <p>\n          When I would talk to therapists, cancellations kept coming up as a concern.\n          <p>Usually the options would be:</p>\n          <ol>\n              <li>Seeing more clients</li>\n              <li>Instituting higher cancellation fees or stricter policies</li>\n              <li>Shuffling clients around to make it work</li>\n          </ol>\n          <p>But therapists weren\u2019t happy with those options.</p>\n          <p>\n              To remedy this, I built <a href=\"https://therapyfill.rudd-bebop.ts.net/crm/track/397b858e7f2711fb2a316b54dc635247\">TherapyFill</a>, a cancellation platform that will field cancellation requests, work to reschedule your clients and find a replacement from your current caseload.\n          </p>\n      </p>\n      <p>\n         I\u2019d love to hear your thoughts! If you\u2019re interested in learning more, would you be open to a quick chat this week? You can also schedule a time that works for you <a href=\"https://cal.com/cpfeifer/10min\">here</a>.\n      </p>\n      <p>Thanks, </p>\n      <p>Collin</p>\n      <img src=\"https://therapyfill.rudd-bebop.ts.net/crm/pixel/9d85a7ac295fcdfcf6081cb33be1c6a2\" >\n  </body>\n</html>\n",
+                "therapist_name": "Kimberly M Papanikandros",
+                "uuid": "8375fe28-815d-11e8-a6ad-06142c356176",
+                "id": 57176,
+                "date": "2025-02-11"
+            }
+        ],
+        "count": 1
+    }
+}
